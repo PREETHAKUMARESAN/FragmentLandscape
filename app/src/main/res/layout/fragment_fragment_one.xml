@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#12aaaa"
+    tools:context="com.fragmentlandscape.FragmentOne">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="35dp"
+        android:layout_marginLeft="55dp"
+        android:gravity="center_vertical"
+        android:text="Fragment one" />
+    </RelativeLayout>
+
+
+
+
